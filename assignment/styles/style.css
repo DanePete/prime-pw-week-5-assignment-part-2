@@ -1,0 +1,22 @@
+
+body {
+  background-image: url("../record.png");
+  background-repeat: repeat;
+
+.info {
+  width: 50%;
+  margin: 0 auto;
+}
+
+header, .info h2, h3{
+  background: #0074D9;
+  color: white;
+}
+
+main {
+  background: rgb(179, 179, 179);
+}
+
+img {
+  width: 100%;
+}
