@@ -2,6 +2,8 @@
 body {
   background-image: url("../record.png");
   background-repeat: repeat;
+  margin: 0;
+}
 
 .info {
   width: 50%;
@@ -11,10 +13,12 @@ body {
 header, .info h2, h3{
   background: #0074D9;
   color: white;
+  text-align: center;
 }
 
 main {
   background: rgb(179, 179, 179);
+  padding: 1em;
 }
 
 img {
